@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+springvaleprimary.org	TRUE	/	FALSE	1999999999	PHPSESSID	1mlplphp6935fl81t3ii5kbj54
+.embedly.com	TRUE	/	FALSE	1999999999	__cfduid	ddf2d302026d56a0baa113dded7a2f3eb1602297474
+cdn.embedly.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

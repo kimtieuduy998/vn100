@@ -1,0 +1,102 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Oct 2020 02:36:07 at https://springvaleprimary.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://springvaleprimary.org/ -O1 "C:\My Web Sites\Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:36:34	Error: 	"Method Not Allowed" (405) at link https://springvaleprimary.org/xmlrpc.php (from https://springvaleprimary.org/)
+02:42:36	Warning: 	File not parsed, looks like binary: https://springvaleprimary.org/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+02:42:37	Warning: 	File not parsed, looks like binary: https://springvaleprimary.org/wp-content/plugins/jet-menu/assets/public/lib/font-awesome/webfonts/fa-brands-400.woff2
+02:42:37	Warning: 	File not parsed, looks like binary: https://springvaleprimary.org/wp-content/plugins/jet-menu/assets/public/lib/font-awesome/webfonts/fa-regular-400.woff2
+02:42:37	Warning: 	File not parsed, looks like binary: https://springvaleprimary.org/wp-content/plugins/jet-menu/assets/public/lib/font-awesome/webfonts/fa-solid-900.woff2
+02:42:38	Warning: 	File not parsed, looks like binary: https://springvaleprimary.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1
+02:42:38	Warning: 	File not parsed, looks like binary: https://springvaleprimary.org/wp-content/plugins/kava-extra/assets/fonts/nucleo-outline-icon-font/fonts/nucleo-outline.woff2
+02:42:40	Error: 	"Not Found" (404) at link https://springvaleprimary.org/wp-content/plugins/tm-content-builder/framework/assets/css/images/preloader.gif (from https://springvaleprimary.org/wp-content/plugins/tm-content-builder/framework/assets/css/style.css?ver=1.0.0)
+02:42:40	Warning: 	File not parsed, looks like binary: https://springvaleprimary.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+02:42:41	Warning: 	Found for https://springvaleprimary.org/key-information/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/key-information/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Key%20Information%20https%3A%2F%2Fspringvaleprimary.org%2Fkey-information%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/about-us/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/about-us/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=About%20us%20https%3A%2F%2Fspringvaleprimary.org%2Fabout-us%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/school-day/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/school-day/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=School%20Day%20https%3A%2F%2Fspringvaleprimary.org%2Fschool-day%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/ethos/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/ethos/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Ethos%20https%3A%2F%2Fspringvaleprimary.org%2Fethos%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/policies/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/policies/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Policies%20https%3A%2F%2Fspringvaleprimary.org%2Fpolicies%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/key-information/active-and-sustainable-travel/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/key-information/active-and-sustainable-travel/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Active%20and%20Sustainable%20Travel%20https%3A%2F%2Fspringvaleprimary.org%2Fkey-information%2Factive-and-sustainable-travel%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/pupil-premium/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/pupil-premium/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Pupil%20Premium%2FSports%20Premium%20https%3A%2F%2Fspringvaleprimary.org%2Fpupil-premium%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/recent-outcomes/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/recent-outcomes/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Recent%20outcomes%20https%3A%2F%2Fspringvaleprimary.org%2Frecent-outcomes%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/school-meals/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/school-meals/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=School%20meals%20https%3A%2F%2Fspringvaleprimary.org%2Fschool-meals%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/uniform/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/uniform/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Uniform%20https%3A%2F%2Fspringvaleprimary.org%2Funiform%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/afterschool-activities/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/afterschool-activities/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Afterschool%20Activities%20https%3A%2F%2Fspringvaleprimary.org%2Fafterschool-activities%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/steps-to-success/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/steps-to-success/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Steps%20to%20success%20https%3A%2F%2Fspringvaleprimary.org%2Fsteps-to-success%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/staffing/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/staffing/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Staffing%20https%3A%2F%2Fspringvaleprimary.org%2Fstaffing%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/our-governors/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/our-governors/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Our%20Governors%20https%3A%2F%2Fspringvaleprimary.org%2Four-governors%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/safeguarding/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/safeguarding/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Safeguarding%20https%3A%2F%2Fspringvaleprimary.org%2Fsafeguarding%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/parent-council/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/parent-council/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Parent%20Council%20https%3A%2F%2Fspringvaleprimary.org%2Fparent-council%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/springvale-fc/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/springvale-fc/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Springvale%20FC%20https%3A%2F%2Fspringvaleprimary.org%2Fspringvale-fc%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Curriculum%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/art/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/art/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Art%20and%20Design%20Technology%20%28DT%29%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fart%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/pe/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/pe/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Physical%20Education%20%28PE%29%2C%20Sport%20and%20Dance%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fpe%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/re-faith/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/re-faith/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Music%20%26%20Faith%20%28RE%29%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fre-faith%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/humanities/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/humanities/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Humanities%20%28History%20and%20Geography%29%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fhumanities%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/ict/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/ict/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Computing%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fict%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/science/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/science/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Science%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fscience%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/maths/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/maths/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Maths%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fmaths%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/writingspellinggrammar/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/writingspellinggrammar/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Writing%2C%20Spelling%20and%20Grammar%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fwritingspellinggrammar%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/phonicsandreading/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/phonicsandreading/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Phonics%20and%20Reading%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fphonicsandreading%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/curriculum/modern-foreign-languages/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/curriculum/modern-foreign-languages/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Wellbeing%20and%20Modern%20Foreign%20Languages%20%28MfL%29%20https%3A%2F%2Fspringvaleprimary.org%2Fcurriculum%2Fmodern-foreign-languages%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/letters-home/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/letters-home/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Letters%20Home%20https%3A%2F%2Fspringvaleprimary.org%2Fletters-home%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/diary-dates/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/diary-dates/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Diary%20Dates%20https%3A%2F%2Fspringvaleprimary.org%2Fdiary-dates%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/send-and-inclusion/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/send-and-inclusion/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=SEND%20and%20Inclusion%20https%3A%2F%2Fspringvaleprimary.org%2Fsend-and-inclusion%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/classes/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/classes/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Classes%20https%3A%2F%2Fspringvaleprimary.org%2Fclasses%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/nursery/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/nursery/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Nursery%20https%3A%2F%2Fspringvaleprimary.org%2Fnursery%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/reception/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/reception/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Reception%20https%3A%2F%2Fspringvaleprimary.org%2Freception%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/year-1/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/year-1/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Year%201%20https%3A%2F%2Fspringvaleprimary.org%2Fyear-1%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/year-2/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/year-2/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Year%202%20https%3A%2F%2Fspringvaleprimary.org%2Fyear-2%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/year-3/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/year-3/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Year%203%20https%3A%2F%2Fspringvaleprimary.org%2Fyear-3%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/year-4/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/year-4/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Year%204%20https%3A%2F%2Fspringvaleprimary.org%2Fyear-4%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/year-5/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/year-5/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Year%205%20https%3A%2F%2Fspringvaleprimary.org%2Fyear-5%2F
+02:42:41	Warning: 	Found for https://springvaleprimary.org/year-6/?share=jetpack-whatsapp
+02:42:41	Warning: 	File has moved from https://springvaleprimary.org/year-6/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Year%206%20https%3A%2F%2Fspringvaleprimary.org%2Fyear-6%2F
+02:42:43	Warning: 	Found for https://springvaleprimary.org/contact-us/?share=jetpack-whatsapp
+02:42:43	Warning: 	File has moved from https://springvaleprimary.org/contact-us/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Contact%20Us%20https%3A%2F%2Fspringvaleprimary.org%2Fcontact-us%2F
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 36 seconds : 1267 links scanned, 1223 files written (657159648 bytes overall) [651250508 bytes received at 1644571 bytes/sec], 7998726 bytes transferred using HTTP compression in 168 files, ratio 17%, 14.0 requests per connection
+(2 errors, 89 warnings, 0 messages)
